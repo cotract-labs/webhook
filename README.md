@@ -1,5 +1,14 @@
 # Webhook
 
+Make Webhook requests with ease.
+
+__Features__
+- Automatic Sentry integration, breadcrumb and context
+- Http header for HMAC SHA256 signature of payload
+- Pass authorization bearer or add any http header
+- id for request tracing and logging
+- only get headers if you want to make the actual request yourself
+
 ## Getting started
 
 Example usage
